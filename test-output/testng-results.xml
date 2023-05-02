@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-29T15:16:03 UZT" name="PetSuite" finished-at="2023-04-29T15:16:11 UZT" duration-ms="8245">
+  <suite started-at="2023-05-02T15:53:49 UZT" name="PetSuite" finished-at="2023-05-02T15:53:57 UZT" duration-ms="8086">
     <groups>
     </groups>
-    <test started-at="2023-04-29T15:16:03 UZT" name="PetTest" finished-at="2023-04-29T15:16:11 UZT" duration-ms="8245">
-      <class name="api.test.UserTest2">
-        <test-method is-config="true" signature="setup()[pri:0, instance:api.test.UserTest2@557caf28]" started-at="2023-04-29T15:16:03 UZT" name="setup" finished-at="2023-04-29T15:16:04 UZT" duration-ms="967" status="PASS">
+    <test started-at="2023-05-02T15:53:49 UZT" name="PetTest" finished-at="2023-05-02T15:53:57 UZT" duration-ms="8086">
+      <class name="api.test.UserTest2ndApproach">
+        <test-method is-config="true" signature="setup()[pri:0, instance:api.test.UserTest2ndApproach@557caf28]" started-at="2023-05-02T15:53:49 UZT" name="setup" finished-at="2023-05-02T15:53:50 UZT" duration-ms="883" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTest2@557caf28]" started-at="2023-04-29T15:16:04 UZT" name="testPostUser" finished-at="2023-04-29T15:16:07 UZT" duration-ms="3088" status="PASS">
+        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTest2ndApproach@557caf28]" started-at="2023-05-02T15:53:50 UZT" name="testPostUser" finished-at="2023-05-02T15:53:53 UZT" duration-ms="2941" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPostUser -->
-        <test-method signature="testGetUserByNam()[pri:2, instance:api.test.UserTest2@557caf28]" started-at="2023-04-29T15:16:07 UZT" name="testGetUserByNam" finished-at="2023-04-29T15:16:08 UZT" duration-ms="998" status="PASS">
+        <test-method signature="testGetUserByNam()[pri:2, instance:api.test.UserTest2ndApproach@557caf28]" started-at="2023-05-02T15:53:53 UZT" name="testGetUserByNam" finished-at="2023-05-02T15:53:54 UZT" duration-ms="1025" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGetUserByNam -->
-        <test-method signature="testUpdateUserByName()[pri:3, instance:api.test.UserTest2@557caf28]" started-at="2023-04-29T15:16:08 UZT" name="testUpdateUserByName" finished-at="2023-04-29T15:16:10 UZT" duration-ms="1940" status="PASS">
+        <test-method signature="testUpdateUserByName()[pri:3, instance:api.test.UserTest2ndApproach@557caf28]" started-at="2023-05-02T15:53:54 UZT" name="testUpdateUserByName" finished-at="2023-05-02T15:53:56 UZT" duration-ms="1938" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUpdateUserByName -->
-        <test-method signature="testDeleteUserBuName()[pri:4, instance:api.test.UserTest2@557caf28]" started-at="2023-04-29T15:16:10 UZT" name="testDeleteUserBuName" finished-at="2023-04-29T15:16:11 UZT" duration-ms="912" status="PASS">
+        <test-method signature="testDeleteUserBuName()[pri:4, instance:api.test.UserTest2ndApproach@557caf28]" started-at="2023-05-02T15:53:56 UZT" name="testDeleteUserBuName" finished-at="2023-05-02T15:53:57 UZT" duration-ms="972" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDeleteUserBuName -->
-      </class> <!-- api.test.UserTest2 -->
+      </class> <!-- api.test.UserTest2ndApproach -->
     </test> <!-- PetTest -->
   </suite> <!-- PetSuite -->
 </testng-results>

@@ -1,13 +1,10 @@
 package api.endpoints;
 
-import static io.restassured.RestAssured.*;
-import static io.restassured.matcher.RestAssuredMatchers.*;
-import static org.hamcrest.Matchers.*;
+import static io.restassured.RestAssured.given;
 
 import java.util.ResourceBundle;
 
 import api.payload.User;
-import io.opentelemetry.sdk.resources.Resource;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
