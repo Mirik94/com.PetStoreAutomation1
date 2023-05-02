@@ -9,7 +9,7 @@
   <test thread-count="5" name="PetTest">
     <classes>
       <!-- <class name="api.test.UserTest"/> --> <!-- First approach-->
-      <class name="api.test.UserTest2"/>   <!-- Second approach-->
+      <class name="api.test.UserTest2ndApproach"/>   <!-- Second approach-->
      <!-- <class name="api.test.DDTests"/>  -->
     </classes>
   </test> <!-- PetTest -->
